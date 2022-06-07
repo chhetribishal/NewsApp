@@ -1,0 +1,58 @@
+{
+    "status": "ok",
+    "totalResults": 70,
+    "articles": [
+    {
+    "source": {
+    "id": "the-wall-street-journal",
+    "name": "The Wall Street Journal"
+    },
+    "author": "Alexandra Bruell, Sadie Gurman, Dustin Volz",
+    "title": "Cyberattack on News Corp, Believed Linked to China, Targeted Emails of Journalists, Others - The Wall Street Journal",
+    "description": "The attack, discovered on Jan. 20, affected units including The Wall Street Journal, the New York Post and the U.K. news operation",
+    "url": "https://www.wsj.com/articles/cyberattack-on-news-corp-believed-linked-to-china-targeted-emails-of-journalists-others-11643979328",
+    "urlToImage": "https://images.wsj.net/im-479937/social",
+    "publishedAt": "2022-02-05T03:19:00Z",
+    "content": "News Corp was the target of a hack that accessed emails and documents of journalists and other employees, an incursion the companys cybersecurity consultant said was likely meant to gather intelligen… [+316 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "New York Times"
+    },
+    "author": "Vimal Patel",
+    "title": "Southwest Airlines to Start Selling Alcohol on Flights Again - The New York Times",
+    "description": "A flight attendants’ union said the decision was “unsafe and irresponsible.”",
+    "url": "https://www.nytimes.com/2022/02/04/us/southwest-airlines-alcohol.html",
+    "urlToImage": "https://static01.nyt.com/images/2022/02/04/multimedia/04virus-briefing-southwest-airlines-alcohol-01/04virus-briefing-southwest-airlines-alcohol-01-facebookJumbo.jpg",
+    "publishedAt": "2022-02-05T03:02:58Z",
+    "content": "We have adamantly and unequivocally informed management that resuming sales of alcohol while the mask mandate is in place has the great potential to increase customer noncompliance and misconduct iss… [+1080 chars]"
+    },
+    {
+    "source": {
+    "id": "reuters",
+    "name": "Reuters"
+    },
+    "author": null,
+    "title": "Amazon is exploring offer for Peloton, source says; report says Nike also weighing bid - Reuters",
+    "description": "Peloton Interactive Inc <a href=\"https://www.reuters.com/companies/PTON.O\" target=\"_blank\">(PTON.O)</a> has drawn interest from potential buyers including e-commerce giant Amazon.com Inc , according to a person familiar with the matter, as the exercise bike m…",
+    "url": "https://www.reuters.com/business/peloton-draws-interest-potential-suitors-including-amazon-wsj-2022-02-04/",
+    "urlToImage": "https://www.reuters.com/resizer/hwgS9mkhdvzSqzipENHjNkhOJ3Y=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/7OCWMHHJNBLVFC3DRE4BSVD6AA.jpg",
+    "publishedAt": "2022-02-05T02:38:00Z",
+    "content": "Feb 4 (Reuters) - Peloton Interactive Inc (PTON.O) has drawn interest from potential buyers including e-commerce giant Amazon.com Inc , according to a person familiar with the matter, as the exercise… [+3774 chars]"
+    },
+    {
+    "source": {
+    "id": null,
+    "name": "WDRB"
+    },
+    "author": "",
+    "title": "2 dead after Listeria outbreak linked to Dole packaged salads - WDRB",
+    "description": "The outbreak has also sickened 17 people and resulted in 13 hospitalizations across 13 states.",
+    "url": "https://www.wdrb.com/news/2-dead-after-listeria-outbreak-linked-to-dole-packaged-salads/article_4ec779be-861a-11ec-b902-8fbeb56fa216.html",
+    "urlToImage": "https://bloximages.newyork1.vip.townnews.com/wdrb.com/content/tncms/assets/v3/editorial/0/68/068a487b-40da-5c22-a68f-9305d4785dfc/5c05cf33d0141.image.jpg?crop=768%2C403%2C0%2C15&resize=768%2C403&order=crop%2Cresize",
+    "publishedAt": "2022-02-05T00:26:00Z",
+    "content": "(CNN) -- The US Centers for Disease Control and Prevention is investigating a Listeria outbreak linked to Dole packaged salads that has resulted in two deaths.\r\nThe outbreak has also sickened 17 peop… [+1009 chars]"
+    }
+]
+}
